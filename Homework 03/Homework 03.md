@@ -1,1 +1,1 @@
-Homework 03 - Value Proposition Canvas
+Homework 03 - A Day in the Life
