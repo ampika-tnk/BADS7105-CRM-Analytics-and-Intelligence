@@ -3,6 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/78214709/116790025-5cb7ab80-aadc-11eb-804c-a5dc9dc93101.png)
 
+## Dataset
 We collected data by used google form and our form contain 2 questions.
 
 ![image](https://user-images.githubusercontent.com/78214709/116790188-37776d00-aadd-11eb-8438-0f3cc56dd8a1.png)
@@ -13,7 +14,7 @@ We got 68 users response which classify as control group is 43 users.
 
 We calculated using Power BI and get result as below.
 
-# Steps
+## Steps
 1. Clean data
 2. Create % average conversion rate 
 3. Create % average conversion rate for control group and treatment group  
@@ -29,5 +30,5 @@ We calculated using Power BI and get result as below.
 
 ![image](https://user-images.githubusercontent.com/78214709/116790319-ace33d80-aadd-11eb-910b-52358ae1ea78.png)
 
-
+## Result
 ![image](https://user-images.githubusercontent.com/78214709/116790358-e451ea00-aadd-11eb-9605-bc02bb470a0e.png)
