@@ -1,4 +1,4 @@
-**A/B Testing**
+# A/B Testing
 
 
 ![image](https://user-images.githubusercontent.com/78214709/116790025-5cb7ab80-aadc-11eb-804c-a5dc9dc93101.png)
@@ -13,7 +13,7 @@ We got 68 users response which classify as control group is 43 users.
 
 We calculated using Power BI and get result as below.
 
-**Steps**
+# Steps
 1. Clean data
 2. Create % average conversion rate 
 3. Create % average conversion rate for control group and treatment group  
