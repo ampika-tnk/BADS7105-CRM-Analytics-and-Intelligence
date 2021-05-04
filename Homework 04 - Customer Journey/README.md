@@ -7,4 +7,4 @@
 ## Customer Journey with Data Analytics
 
 
-## Collecting data throughout Customer Journey
+## Collecting Data Throughout Customer Journey
