@@ -1,5 +1,5 @@
 # Customer Journey
-
+My experience shopping second hand brandname
 
 ## Customer Journey Map
 
