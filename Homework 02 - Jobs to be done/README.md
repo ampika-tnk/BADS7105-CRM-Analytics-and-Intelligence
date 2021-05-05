@@ -18,5 +18,6 @@ Background: เหตุเกิดจากการที่เวลาเ�
 
 
 Pain: Don't have time
+
 Gain: Happy, "Fin" moment
 
