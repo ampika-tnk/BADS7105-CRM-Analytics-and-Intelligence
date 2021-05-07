@@ -2,12 +2,16 @@
 
 
 ## Dataset
-
+The data comes from a survey asking about interests and consumptions of 30 things, e.g., Food, Contents, Activities, etc. The respodents are the students from the BADS7105-CRM class. The data is in excel format [Customer Behaviors (Responses).xlsx]
 
 ## Methodology
+Tools: Power BI 
+- Start cleansing and transform data in Power Query
+- Calculated correlation use python script
+- Create visualizations
 
 
-## Persona of Respondants
+## Persona of Respondents
 ![image](https://user-images.githubusercontent.com/78214709/117354938-2616d200-aedc-11eb-89e5-815e6bb5b4e7.png)
 
 ![image](https://user-images.githubusercontent.com/78214709/117355091-51012600-aedc-11eb-877d-2aaa9eaf69f6.png)
