@@ -12,7 +12,7 @@ Tools: Power BI
 
 
 ## Results
---## Persona of Respondents
+*## Persona of Respondents
 ![image](https://user-images.githubusercontent.com/78214709/117354938-2616d200-aedc-11eb-89e5-815e6bb5b4e7.png)
 
 ![image](https://user-images.githubusercontent.com/78214709/117355091-51012600-aedc-11eb-877d-2aaa9eaf69f6.png)
