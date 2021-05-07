@@ -2,7 +2,7 @@
 
 
 ## Dataset
-The data comes from a survey asking about interests and consumptions of 30 things, e.g., Food, Contents, Activities, etc. The respodents are the students from the BADS7105-CRM class. The data is in excel format [Customer Behaviors (Responses).xlsx]
+The data comes from a survey asking about interests and consumptions of 30 things, e.g., Food, Contents, Activities, etc. The respodents are the students from the BADS7105-CRM class. The data is in excel format. [Customer Behaviors (Responses).xlsx]
 
 ## Methodology
 Tools: Power BI 
