@@ -7,7 +7,12 @@ The data comes from a survey asking about interests and consumptions of 30 thing
 ## Methodology
 Tools: Power BI 
 - Start cleansing and transform data in Power Query
+- Calculate basic statistical use python script
+![image](https://user-images.githubusercontent.com/78214709/120880107-7758d500-c5f2-11eb-805e-25fe6caec2fe.png)
+
 - Calculated correlation use python script
+![image](https://user-images.githubusercontent.com/78214709/120880072-352f9380-c5f2-11eb-9fbc-deb2fbe3d67b.png)
+
 - Create visualizations
 
 
