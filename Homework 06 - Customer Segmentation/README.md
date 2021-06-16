@@ -1,6 +1,6 @@
 # Customer Segmentation
 
-##Cluster1
+Cluster1
 
 ![image](https://user-images.githubusercontent.com/78214709/122181562-ab19e180-ceb3-11eb-8e7e-181fde24c1a6.png)
 
