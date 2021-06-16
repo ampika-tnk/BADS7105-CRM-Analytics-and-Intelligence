@@ -17,3 +17,6 @@
 
 4.) Prototype
 
+<img width="1440" alt="Prototype" src="https://user-images.githubusercontent.com/78214709/122277580-3f199680-cf10-11eb-826a-b3f4dbb88cb5.png">
+
+
