@@ -1,6 +1,6 @@
 # Customer Segmentation
 
-Cluster1
+##Cluster1
 
 ![image](https://user-images.githubusercontent.com/78214709/122181562-ab19e180-ceb3-11eb-8e7e-181fde24c1a6.png)
 
@@ -9,6 +9,17 @@ Cluster1
 
 
 ![image](https://user-images.githubusercontent.com/78214709/122169392-8ae42580-cea7-11eb-8afe-1f31521c2bec.png)
+
+
+Cluster4
+
+![image](https://user-images.githubusercontent.com/78214709/122184286-48761500-ceb6-11eb-82e5-e8e2b686d414.png)
+
+
+![image](https://user-images.githubusercontent.com/78214709/122184344-53c94080-ceb6-11eb-84d5-c224504faa06.png)
+
+
+![image](https://user-images.githubusercontent.com/78214709/122184499-778c8680-ceb6-11eb-8c03-5b941b9c15b6.png)
 
 
 Cluster2
