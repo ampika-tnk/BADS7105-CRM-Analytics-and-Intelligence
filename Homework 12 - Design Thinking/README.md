@@ -19,6 +19,3 @@
 
 <img width="1440" alt="Prototype" src="https://user-images.githubusercontent.com/78214709/122402775-00371f80-cfa8-11eb-93ff-f20e1a0eaada.png">
 
-
-5.) Test
-
