@@ -4,6 +4,13 @@
 
 Customer reviews of 3 restaurants from Wongnai [CustomerReviews.csv]
 
+## Text Processing
+- Word correction
+- Remove special characters and numbers
+- Combine Headline + Review content
+- Sentence and Word tokenization (using pythainlp and sefr_cut packages)
+- Remove stop words and some cherry-picked words
+
 ## Topic Modelling by LDA
 
 ![image](https://user-images.githubusercontent.com/78214709/122588635-84ad9f00-d089-11eb-9093-62239c92287d.png)
