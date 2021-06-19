@@ -16,6 +16,7 @@ Previous: made purchases last month (M-1)
 
 Before: made purchase before last month (< M-1)
 
+
 - Export data into csv format and plot graph using Google Colab
 
 ## Result
