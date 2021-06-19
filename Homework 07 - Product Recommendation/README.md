@@ -1,5 +1,9 @@
 ## Product Recommendation
 
+## Dataset
+The data comes from a survey asking users (students in the class) about have ever purchased/used items (Yes or No). The data is in csv format. [Customer Preference Survey.csv]
+
+### Top 20 Most and Least Purchase/Use
 ![image](https://user-images.githubusercontent.com/78214709/122434527-611f2180-cfc1-11eb-9338-949d3c0ef12f.png)
 
 
