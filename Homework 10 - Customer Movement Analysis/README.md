@@ -10,9 +10,11 @@ Tools: Google BigQuery and Google Colab
 
 ![image](https://user-images.githubusercontent.com/78214709/122635100-2e357480-d10c-11eb-89d3-a58c078dfa04.png)
 
--- Current: made purchases this month (M)
--- Previous: made purchases last month (M-1)
--- Before: made purchase before last month (< M-1)
+Current: made purchases this month (M)
+
+Previous: made purchases last month (M-1)
+
+Before: made purchase before last month (< M-1)
 
 - Export data into csv format and plot graph using Google Colab
 
