@@ -10,6 +10,7 @@ The data comes from a survey asking users (students in the class) about have eve
 ### Frequent Itemsets and Association Rules
 
 Running a market basket analysis. Nodes represent items and directed edges represent rules (antecedents ➞ consequents). For 1-to-1-itemset, both directions of rules (A➞B, B➞A) have the same lift values, so in the case, we always have bi-directional edges (A⬌B).
+
 1-itemset association rules (filtered by Confidence > 0.5 and Lift > 1.05)
 
 ![image](https://user-images.githubusercontent.com/78214709/122435152-f4585700-cfc1-11eb-8330-b74b5ecfdb57.png)
