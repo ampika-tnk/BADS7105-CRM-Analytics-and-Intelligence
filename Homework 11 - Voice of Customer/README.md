@@ -2,7 +2,7 @@
 
 ## Dataset
 
-Customer reviews of 3 restaurants from Wongnai 
+Customer reviews of 3 restaurants from Wongnai [CustomerReviews.csv]
 
 ## Topic Modelling by LDA
 
