@@ -1,5 +1,11 @@
 ## Voice of Customer
 
+## Dataset
+
+Customer reviews of 3 restaurants from Wongnai 
+
+## Topic Modelling by LDA
+
 ![image](https://user-images.githubusercontent.com/78214709/122588635-84ad9f00-d089-11eb-9093-62239c92287d.png)
 
 
