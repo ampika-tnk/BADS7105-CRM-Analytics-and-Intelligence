@@ -1,5 +1,9 @@
 ## Campaign Response
 
+
+## Dataset
+Retail dataset (Response and Transactions)
+
 ![image](https://user-images.githubusercontent.com/78214709/122596898-c2fc8b80-d094-11eb-8b11-cd9d6cec51cc.png)
 
 ### Imbalance Data
