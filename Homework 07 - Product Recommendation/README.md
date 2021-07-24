@@ -3,35 +3,37 @@
 ## Dataset
 The data comes from a survey asking users (students in the class) about have ever purchased/used items (Yes or No). The data is in csv format. [Customer Preference Survey.csv]
 
-### Top 20 Most and Least Purchase/Use
-![image](https://user-images.githubusercontent.com/78214709/122434527-611f2180-cfc1-11eb-9338-949d3c0ef12f.png)
+### Top 10 Most and Least Purchase/Use Items
+![image](https://user-images.githubusercontent.com/78214709/126868066-499c34d4-9a5f-48aa-adc4-5a7851e7f292.png)
 
 
 ### Frequent Itemsets and Association Rules
 
 Running a market basket analysis. Nodes represent items and directed edges represent rules (antecedents ➞ consequents). For 1-to-1-itemset, both directions of rules (A➞B, B➞A) have the same lift values, so in the case, we always have bi-directional edges (A⬌B).
 
-1-itemset association rules (filtered by Confidence > 0.5 and Lift > 1.05)
+Recommend 1 item based on 1 item (filtered by Confidence > 0.8 and Lift > 1.00)
 
-![image](https://user-images.githubusercontent.com/78214709/122435152-f4585700-cfc1-11eb-8330-b74b5ecfdb57.png)
+![image](https://user-images.githubusercontent.com/78214709/126868115-c0b6376c-229c-42f1-9113-7121eeffd11d.png)
 
 
-2-itemset association rules (filtered by Confidence > 0.9 and Lift > 1.35)
-![image](https://user-images.githubusercontent.com/78214709/122634417-5ae78d00-d108-11eb-97ca-b22ed95e5844.png)
+Recommend 2 items based on 1 item (filtered by Confidence > 0.8 and Lift > 1.20)
+![image](https://user-images.githubusercontent.com/78214709/126868174-d5fa79f0-6fb3-447a-ac7d-fa7d172f787b.png)
+
+![image](https://user-images.githubusercontent.com/78214709/126868161-3477c1b6-7738-495d-a17a-a7f7586370dd.png)
 
 
 ### Collaborative Filtering Model
 
-We could recommend items based on item similarity. Calculates cosine similarity values for each pair of items. 
+We could recommend items based on item similarity. Calculates similarity values for each pair of items (filtered similarity using threshold > 0.7). 
 
-![image](https://user-images.githubusercontent.com/78214709/122435470-3aadb600-cfc2-11eb-8a96-ecbbd28c18bc.png)
+![image](https://user-images.githubusercontent.com/78214709/126868216-f6091cf2-de34-4645-8196-f1ca415911ab.png)
 
 
 ### Matrix Factorization
 
 We could recommend items based on user-item similarity. 
 
-![image](https://user-images.githubusercontent.com/78214709/122435838-8b251380-cfc2-11eb-8c22-f8a65816b30b.png)
+![image](https://user-images.githubusercontent.com/78214709/126868233-f2bc0d69-072a-48e2-8d2f-83ec5b0da337.png)
 
 
 
