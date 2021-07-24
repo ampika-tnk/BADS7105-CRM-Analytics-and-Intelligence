@@ -17,9 +17,9 @@ Previous: made purchases last month (M-1)
 Before: made purchase before last month (< M-1)
 
 
-- Export data into csv format and plot graph using Google Colab
+- Export data into csv format and plot graph using Power BI
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/78214709/122601887-2d64fa00-d09c-11eb-856a-c23975abd2a0.png)
+![image](https://user-images.githubusercontent.com/78214709/126873560-649f024f-171c-40db-b1e7-1282a05542ba.png)
 
